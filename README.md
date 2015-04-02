@@ -24,3 +24,13 @@ tcci
 
 程式碼: http://rpubs.com/ywchiu/24826
 
+## R ETL 與統計基礎
+====================
+
+Slides:
+http://www.slideshare.net/secret/pwz84EdnU4luN2
+
+password:
+tcci
+
+程式碼: http://rpubs.com/ywchiu/25162

@@ -34,3 +34,9 @@ password:
 tcci
 
 程式碼: http://rpubs.com/ywchiu/25162
+
+## 迴歸分析與分類問題
+====================
+
+Slides
+https://www.slideshare.net/secret/1DMq6nrZf2O5h8

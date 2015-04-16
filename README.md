@@ -40,3 +40,9 @@ tcci
 
 Slides
 https://www.slideshare.net/secret/1DMq6nrZf2O5h8
+
+## 分群問題與降低維度
+====================
+
+Slides
+https://www.slideshare.net/secret/3BjG5iHX3bt3wV
